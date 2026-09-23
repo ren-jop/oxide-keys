@@ -1,5 +1,8 @@
 # Oxide Keys
 
+**Author:** Ren Jopson  
+**Project page:** https://rin677.github.io/oxide-keys/
+
 A project with a display that has the ability to play very simple games to kill time and also a fun way to integrate Rust (the language I am learning).
 The hardware is mainly composed of an 8-key mini game player with rotary encoder, LCD display, and RGB underglow on the Raspberry Pi Pico W, where I aim to include as much Rust as I can in this project.
 
